@@ -1,4 +1,4 @@
-#Linux Exclusive Apps
+# Linux Exclusive Apps
 
 ## CLI
 
