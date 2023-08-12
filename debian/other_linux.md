@@ -14,7 +14,6 @@
 - tmux - My preferred way of multitasking in a terminal
 
 ## Gnome
-### Gnome Extensions
 - Caffine - Prevent Sleep
 - Dash to Panel - Windows esk layout
 -     - Note: You have a custom version because the normal one doesn't work with touch.

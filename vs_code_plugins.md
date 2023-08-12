@@ -1,8 +1,17 @@
-Plugins I use:
+# Plugins I use:
 - Github Copilot
 - Gitlens
 - CSVQuery 
-- Which is the JS thing I use in there I forgot
+- Quokka 
 - VIM 
 - CSV coloring
-- 
+- Black Formatter
+- Docker
+- Go
+- Jupyter
+- Python
+- Live Share
+- Better Comments
+- SQLite Viewer
+- Polacode
+- Gitlens
