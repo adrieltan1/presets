@@ -8,6 +8,7 @@
 - Solaar - Logitech mouse settings on Linux
 - Waydroid - Android on Wayland 
 - Dehositfy - a quickfix golang app that replace host replacements with the actual IP used. 
+- Gparted 
 
 ## CLI
 - Kitty - Alternative terminal emulator
@@ -15,13 +16,13 @@
 
 ## Gnome
 - Caffine - Prevent Sleep
-- Dash to Panel - Windows esk layout
--     - Note: You have a custom version because the normal one doesn't work with touch.
+- Dash to Panel - Windows esk layout, mostly to get more vertical screen real estate without hiding things. 
 - Extension List
 - Vitals - CPU Usage, Power consumption, monitor
-- GJS OSK - On screen keyboard
-- Impatience - Speed up animations
+- Just Perfection - Speed up animations, set notifications to the bottom right, enable window demands focus
 - WinTile - Quarter tiling + windows style keyboards shortcuts for tiling
+    - I still use this even on newer versions of ubuntu.
+- Hibernate Status Button
 
 ### Gnome Changes
 - Hot corner enabled

@@ -11,15 +11,15 @@
 - Office - Microsoft's Productivity suite is still king.
 - WPS Office - For Linux or if I don't want to waste a license for that device.
 - Todoist
+- AWS CLI
+- jq
+- fastfetch
 
 # Reading / Entertainment 
 - Kindle (Sometimes)
 - Calibre
 - Spotify 
 - YT Music - Still not as good as Spotify, but I have it as part of YT Premium so (shrug)
-
-# Product Specific
-- Solaar (Logitech's control center for Linux)
 
 # Communication 
 - Telegram
@@ -37,7 +37,8 @@
 # Coding Specific
 - VSCode Insiders - I use this over normal VSCode because I sometimes see new features and I wanna try them out.
 - IntelliJ - If I ever need java
-- Miniconda - For quick and dirty stuff this works great (even though it's slow af). For projects, probably poetry, for random things. Conda is great. Also prevents on from F-ing up their env easily.
+- MiniForge - For quick and dirty stuff this works great. For projects, probably poetry, for random things. Conda is great. Also prevents on from F-ing up their env easily.
+- UV - when I don't want to use base python. 
 - NodeJS  
 - GoLang
 - JDK - For the rare times I need it
