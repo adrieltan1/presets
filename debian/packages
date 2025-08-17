@@ -3,3 +3,5 @@ ffmpeg
 rclone
 veracrypt
 vlc
+ble.sh
+atuin with --disable-up-arrow
